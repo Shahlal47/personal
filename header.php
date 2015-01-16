@@ -10,7 +10,7 @@
     <br /><br /><br />
     <section class="row">
         <section class="col-md-6">
-            <img src="image/logo.jpg" alt="logo">
+            <img src="image/logo1.jpg" alt="logo">
         </section>
         <section class="col-md-6">
             <h1 class="text-right">Md. Shahlal Hossain</h1>
