@@ -1,4 +1,3 @@
-# personal
+# Personal-Website
 
-
-Working with personal website using the maximum bootstrap functionality.
+Working with Personal Website using the Maximum Functionalities of Bootstrap 3.
